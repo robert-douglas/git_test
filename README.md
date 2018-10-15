@@ -1,1 +1,1 @@
-#New README file
+This is robert-douglas's first git project!
